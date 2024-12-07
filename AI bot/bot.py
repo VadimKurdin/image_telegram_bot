@@ -1,6 +1,6 @@
 import telebot
 from Logic_AI import getclass
-token = '8179192722:AAE_30ghptzSqaT2yd8qzfW2BcDCm0_hJ9w'
+token = "Напиши здесь свой токен бота"
 
 # Замени 'TOKEN' на токен твоего бота
 bot = telebot.TeleBot(token)
